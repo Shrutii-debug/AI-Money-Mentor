@@ -4,7 +4,7 @@ import XrayReport from './components/XrayReport.jsx'
 import FirePlanner from './components/FirePlanner.jsx'
 import HealthScore from './components/HealthScore.jsx'
 
-const API = 'http://localhost:8000'
+const API = 'https://ai-money-mentor-1kt4.onrender.com'
 
 export default function App() {
   const [result, setResult] = useState(null)

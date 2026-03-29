@@ -2,6 +2,10 @@
 ### ET AI Hackathon 2026 · Problem Statement PS9
 **Multi-Agent Portfolio Intelligence System for Indian Investors**
 
+
+
+🌐 **Live Demo:** https://moneymentori.netlify.app
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![React](https://img.shields.io/badge/React-18-61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688) ![Grok](https://img.shields.io/badge/LLM-Grok_3_Mini-FF6B00)
 
 ---
